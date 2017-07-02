@@ -10,6 +10,6 @@ app.listen(3000, function () {
   //process.exit(-1);
 });
 
-process.exit(-1);
+//process.exit(-1);
 
 module.exports = app;
